@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         youtube.com - thumbnail
+// @name         Youtube Thumbnail
 // @namespace    Youtube.com
 // @version      1.0.0.0
 // @description  Adds a clickable thumbnail that opens in a new tab in the highest possible resolution.

@@ -1,4 +1,4 @@
-# I fixed the script I want to use so these can be compatible with AdashimaaTube.
+# I fixed these script that I want to use so these can be compatible with AdashimaaTube.
 
-## Youtube-Thumbnail
+## [Youtube-Thumbnail](./yt-thumbnail.user.js)
 ![](https://i.imgur.com/eh6HQAA.png)
